@@ -1,5 +1,8 @@
 # have-a-go-joe
 
+##Install Laravel
+
+If you take some time and read over the [http://laravel.com/docs/5.1/](docs) at
 
 ##Tasks
 
